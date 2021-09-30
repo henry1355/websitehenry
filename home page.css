@@ -1,0 +1,104 @@
+
+
+body{
+    background: url(ferrari\ copy.jpg)white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+    text-decoration:none;
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    font-size: 45px;
+    margin-top: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-origin: padding-box;
+}
+
+
+a{text-decoration: none;}
+
+
+.logo{
+margin-top: -40px;
+}
+.image1{
+
+    float: left 
+    
+}
+.image1{
+    margin-left: 80px;
+    margin-top: 15px;
+
+}
+Header{
+    display: block;
+    background-color: black;
+    height: 70px;
+    display:white
+}
+
+
+    
+nav{
+    float: right ;
+    margin-right: 120px;
+    font-size: 25px;
+    font-family: 'Jura', sans-serif;
+    font-display: white;
+    display: inline-block;
+    margin-left: 0px;
+    padding-top: 0px;}
+    a:visited{color:white;}
+    a:hover{color: blue;}
+
+    h1{
+   text-align: center;
+   border-radius: 10px;
+   background-size: contain;
+   width: 500px;
+   height: 50px;
+   float: right 100px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 250px;
+
+}
+nav a:visited{color: white;}
+    nav a:hover{color:blue;}
+    nav a:link{color: white;}
+    nav a:hover{color:blue;}
+
+
+
+
+
+nav li {
+    display: inline-block;
+    margin-left: 90px;
+    padding-top: 0px;
+}
+a:visited{color: white;}
+a:hover{color:blue;}
+a:link{color: white;}
+a:hover{color:blue;}
+
+
+
+footer{
+    font-size: 15px;
+}
+section{
+    
+        
+}
+
+.image2{float: left;}
+.image2{opacity: 80%;}
+
+h1{ font-size: 40px;
+    font-family: 'Jura', sans-serif;
+}
+
+    

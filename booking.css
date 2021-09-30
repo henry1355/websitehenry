@@ -1,0 +1,125 @@
+body{
+    margin-top: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+a{text-decoration: none;}
+
+
+.logo{
+margin-top: 10px;
+}
+.image1{
+
+    float: left 
+    
+}
+.image1{
+    margin-left: 80px;
+    margin-top: 15px;
+
+}
+Header{
+    display: block;
+    background-color: black;
+    height: 70px;
+    margin-top: 0px;
+}
+
+
+
+    
+nav{
+    font-display: white;
+    float:right;
+    margin-right: 120px;
+    font-size: 25px;
+    font-family: 'Jura', sans-serif;
+    display: inline-block;
+    margin-left: 0px;
+    padding-top: 0px;}
+
+   
+    nav a:visited{color: white;}
+    nav a:hover{color:blue;}
+    nav a:link{color: white;}
+    nav a:hover{color:blue;}
+    
+
+
+    nav a {
+        
+    }
+nav li {
+    display: inline-block;
+    margin-left: 90px;}
+
+h1
+{
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    font-size: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    }
+p {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Jura', sans-serif;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    background-repeat: no-repeat;
+  
+    
+}
+
+
+
+
+h2{
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h3{
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h4{
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5{
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+a:visited{color: blue;}
+a:hover{color: white;}
